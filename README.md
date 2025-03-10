@@ -40,8 +40,8 @@
 
 ## Download
 
-- The latest version of **uYouPlus** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
-- **Compatibility:** Requires iOS/iPadOS 14.0 or later.
+- First go to [armconverter.com](https://armconverter.com), find YouTube, decrypt IPA (must create an account), then right-click -> copy link on download link.
+- Then go to Actions tab -> Building -> Run Workflow and paste the link in the box.
 
 <details>
   <summary>Version information (last updated: Feb 26, 2025)</summary>
